@@ -17,7 +17,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 Yo, I’m **TheRealNeoShade** 👑  
 I’m new to ricing, but I’m fully locked in.
@@ -33,7 +33,7 @@ This profile is where I’ll be dropping:
 
 ---
 
-## <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="28"> My First Solo Project
+# <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="28"> My Projects
 
 ### 🔮 GhostGlaze-Waybar
 My first individually built project — a Waybar setup with **two versions**, focused on clean layout + aesthetic styling.
@@ -43,7 +43,7 @@ My first individually built project — a Waybar setup with **two versions**, fo
 
 ---
 
-## 🛠 What I’m Working On
+# 🛠 What I’m Working On
 
 - 🎨 More Waybar themes (Neo / Shade / Glass style)
 - 🧩 Full Hyprland config packs
@@ -53,7 +53,7 @@ My first individually built project — a Waybar setup with **two versions**, fo
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -69,8 +69,9 @@ My first individually built project — a Waybar setup with **two versions**, fo
 
 </div>
 
+---
 
-## ⚡ Setup / Stack
+# ⚡ Setup / Stack
 
 ```txt
 OS: Arch Linux + Windows 11 (Dual Boot)

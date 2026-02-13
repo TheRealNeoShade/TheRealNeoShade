@@ -41,6 +41,12 @@ My first individually built project — a Waybar setup with **two versions**, fo
 🔗 Repo: **[GhostGlaze-waybar](https://github.com/TheRealNeoShade/GhostGlaze-Waybar)**  
 ⭐ If you like it, star it (it motivates hard fr)
 
+### 🌙 Wlogout-Pacman Theme
+Second Project that makes your logout menu minimalistic, modern as well as retro integrated with matugen theme.
+
+🔗 Repo: **[Wlogout-Pacman](https://github.com/TheRealNeoShade/Wlogout-Pacman)**  
+
+
 ---
 
 # 🛠 What I’m Working On

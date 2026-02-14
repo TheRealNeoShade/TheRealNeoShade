@@ -59,24 +59,6 @@ Second Project that makes your logout menu minimalistic, modern as well as retro
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=TheRealNeoShade&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheRealNeoShade&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
 # ⚡ Setup / Stack
 
 ```txt
